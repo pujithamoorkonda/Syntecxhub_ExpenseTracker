@@ -1,1 +1,2 @@
-pip install pandas matplotlib openpyxl
+pip install pandas matplotlib openpyxl ----
+Run the command in the terminal
